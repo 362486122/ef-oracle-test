@@ -1,0 +1,7 @@
+﻿create table PARENT
+(
+  id VARCHAR2(10),
+  a  VARCHAR2(10),
+  b  VARCHAR2(10),
+  c  DATE
+)
